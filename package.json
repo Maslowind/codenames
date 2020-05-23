@@ -10,6 +10,7 @@
     "@types/node": "^12.0.0",
     "aws-amplify": "^3.0.9",
     "aws-amplify-react": "^4.1.8",
+    "browserify-fs": "^1.0.0",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-scripts": "3.4.1",

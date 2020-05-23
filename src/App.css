@@ -1,7 +1,9 @@
-.App {
+.Main {
   text-align: center;
 }
-
+button{
+  height: 50px;
+}
 
 .ShowBtn {
   display: inline-block;
@@ -16,6 +18,8 @@
   border: none;
   border-radius: 3px;
   width: 200px;
+  height: 50px;
+  margin: 4px;
 }
 
 .ShowBtn:hover {background-color: darkorange}

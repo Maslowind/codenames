@@ -1,0 +1,129 @@
+{
+  "list": [
+    {
+      "id": 0,
+      "words": "посол",
+      "numbers": 2
+    },
+    {
+      "id": 1,
+      "words": "шайба",
+      "numbers": 0
+    },
+    {
+      "id": 2,
+      "words": "камень",
+      "numbers": 0
+    },
+    {
+      "id": 3,
+      "words": "кабинет",
+      "numbers": 0
+    },
+    {
+      "id": 4,
+      "words": "няня",
+      "numbers": 2
+    },
+    {
+      "id": 5,
+      "words": "гусеница",
+      "numbers": 1
+    },
+    {
+      "id": 6,
+      "words": "бык",
+      "numbers": 1
+    },
+    {
+      "id": 7,
+      "words": "ладья",
+      "numbers": 2
+    },
+    {
+      "id": 8,
+      "words": "фаланга",
+      "numbers": 2
+    },
+    {
+      "id": 9,
+      "words": "крошка",
+      "numbers": 2
+    },
+    {
+      "id": 10,
+      "words": "бюст",
+      "numbers": 1
+    },
+    {
+      "id": 11,
+      "words": "учитель",
+      "numbers": 0
+    },
+    {
+      "id": 12,
+      "words": "королева",
+      "numbers": 2
+    },
+    {
+      "id": 13,
+      "words": "язык",
+      "numbers": 0
+    },
+    {
+      "id": 14,
+      "words": "погон",
+      "numbers": 0
+    },
+    {
+      "id": 15,
+      "words": "вирус",
+      "numbers": 0
+    },
+    {
+      "id": 16,
+      "words": "яблоко",
+      "numbers": 1
+    },
+    {
+      "id": 17,
+      "words": "банк",
+      "numbers": 1
+    },
+    {
+      "id": 18,
+      "words": "дача",
+      "numbers": 1
+    },
+    {
+      "id": 19,
+      "words": "акция",
+      "numbers": -1
+    },
+    {
+      "id": 20,
+      "words": "ботинок",
+      "numbers": 1
+    },
+    {
+      "id": 21,
+      "words": "таз",
+      "numbers": 2
+    },
+    {
+      "id": 22,
+      "words": "ударник",
+      "numbers": 2
+    },
+    {
+      "id": 23,
+      "words": "змей",
+      "numbers": 1
+    },
+    {
+      "id": 24,
+      "words": "лира",
+      "numbers": 2
+    }
+  ]
+}

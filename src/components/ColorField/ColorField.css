@@ -7,12 +7,12 @@
     height: 253px;
     margin:0 auto;
   }
+
   #ColorField {
-    text-align: center;
-    
+    text-align: center;    
   }
-  button{
-    border: none;
+.WhiteFieldBut {
+  border: none;
     text-align: center;
     text-decoration: none;
     display: inline-block;
@@ -20,27 +20,54 @@
     width: 45px;  
     height: 45px;
     margin: 4px;
-  }
-
-  
-
-.Whitebutton {
     background-color: white;
     color: black;  
 }
-.Redbutton {
+.RedFieldBut {
+  border: none;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px; 
+    width: 45px;  
+    height: 45px;
+    margin: 4px;
     background-color: red;
     color: white;   
 }
-.Bluebutton {
+.BlueFieldBut {
+  border: none;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px; 
+    width: 45px;  
+    height: 45px;
+    margin: 4px;
   background-color: dodgerblue;
   color: white;  
 }
-.Lightbutton {
-    background-color: floralwhite;
+.LightFieldBut {
+  border: none;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px; 
+    width: 45px;  
+    height: 45px;
+    margin: 4px;
+    background-color: bisque;
     color: black;    
 }
-.Darkgreybutton {
+.DarkgreyFieldBut {
+  border: none;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px; 
+    width: 45px;  
+    height: 45px;
+    margin: 4px;
     background-color:darkslategray; 
     color: white;
 }

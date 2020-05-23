@@ -1,0 +1,76 @@
+#GridTable {
+    display: grid;
+    grid-template-columns: 100px 100px 100px 100px 100px;
+    grid-template-rows: 30px 30px 30px 30px 30px;
+    background-color: black;
+    width: 506px;
+    height: 156px;
+    margin:0 auto;
+  }
+
+  #ColorTable {
+    text-align: center;
+    
+  }
+
+
+.Whitebutton {
+    background-color: white;
+    color: black;
+    border: none;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px; 
+    width: 98px;  
+    height: 28px;
+    margin: 4px;  
+}
+.Redbutton {
+    background-color: red;
+    color: white;
+    border: none;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px; 
+    width: 98px;  
+    height: 28px;
+    margin: 4px;   
+}
+.Bluebutton {
+  background-color: dodgerblue;
+  color: white;
+  border: none;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px; 
+    width: 98px;  
+    height: 28px;
+    margin: 4px;  
+}
+.Lightbutton {
+    background-color: bisque;
+    color: black;
+    border: none;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px; 
+    width: 98px;  
+    height: 28px;
+    margin: 4px;    
+}
+.Darkgreybutton {
+    background-color:darkslategray; 
+    color: white;
+    border: none;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px; 
+    width: 98px;  
+    height: 28px;
+    margin: 4px;
+}
